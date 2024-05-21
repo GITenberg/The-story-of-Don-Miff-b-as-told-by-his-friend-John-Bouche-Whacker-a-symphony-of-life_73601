@@ -1,0 +1,28 @@
+_repo: The-story-of-Don-Miff-b-as-told-by-his-friend-John-Bouche-Whacker-a-symphony-of-life_73601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dabney, Virginius
+    gutenberg_agent_id: '57135'
+    url: http://www.gutenberg.org/2009/agents/57135
+description: ''
+gutenberg_issued: '2024-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73601'
+language: en
+pgterms:marc904: https://archive.org/details/storyofdonmiffas00dabn
+pgterms:marc905: 20240425143545dabney
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Sean, an independent e-book maker in Canada (contact ttd ali at yahoo
+  com), based on scans made available by the Internet Archive.
+publication_note: '  $aPhiladelphia :$bJ. B. Lippincott Company, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The story of Don Miff : $b as told by his friend John Bouche Whacker: a symphony
+  of life'
+url: http://www.gutenberg.org/ebooks/73601
