@@ -1,11 +1,16 @@
 _repo: The-story-of-Don-Miff-b-as-told-by-his-friend-John-Bouche-Whacker-a-symphony-of-life_73601
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dabney, Virginius
     gutenberg_agent_id: '57135'
     url: http://www.gutenberg.org/2009/agents/57135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73601#The-story-of-Don-Miff-b-as-told-by-his-friend-John-Bouche-Whacker-a-symphony-of-life
 gutenberg_issued: '2024-05-11'
 gutenberg_type: Text
 identifiers:
